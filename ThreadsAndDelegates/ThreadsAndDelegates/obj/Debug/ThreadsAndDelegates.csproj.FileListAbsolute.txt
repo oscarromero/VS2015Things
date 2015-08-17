@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadsAndDelegates\ThreadsAndDelegates\bin\Debug\ThreadsAndDelegates.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadsAndDelegates\ThreadsAndDelegates\bin\Debug\ThreadsAndDelegates.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadsAndDelegates\ThreadsAndDelegates\bin\Debug\ThreadsAndDelegates.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadsAndDelegates\ThreadsAndDelegates\obj\Debug\ThreadsAndDelegates.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadsAndDelegates\ThreadsAndDelegates\obj\Debug\ThreadsAndDelegates.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadsAndDelegates\ThreadsAndDelegates\obj\Debug\ThreadsAndDelegates.pdb

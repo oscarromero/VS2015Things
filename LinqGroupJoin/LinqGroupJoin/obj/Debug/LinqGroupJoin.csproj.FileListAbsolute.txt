@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupJoin\LinqGroupJoin\bin\Debug\LinqGroupJoin.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupJoin\LinqGroupJoin\bin\Debug\LinqGroupJoin.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupJoin\LinqGroupJoin\bin\Debug\LinqGroupJoin.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupJoin\LinqGroupJoin\obj\Debug\LinqGroupJoin.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupJoin\LinqGroupJoin\obj\Debug\LinqGroupJoin.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupJoin\LinqGroupJoin\obj\Debug\LinqGroupJoin.pdb

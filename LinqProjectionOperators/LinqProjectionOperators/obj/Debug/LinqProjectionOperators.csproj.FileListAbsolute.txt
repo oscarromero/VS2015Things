@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqProjectionOperators\LinqProjectionOperators\bin\Debug\LinqProjectionOperators.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqProjectionOperators\LinqProjectionOperators\bin\Debug\LinqProjectionOperators.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqProjectionOperators\LinqProjectionOperators\bin\Debug\LinqProjectionOperators.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqProjectionOperators\LinqProjectionOperators\obj\Debug\LinqProjectionOperators.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqProjectionOperators\LinqProjectionOperators\obj\Debug\LinqProjectionOperators.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqProjectionOperators\LinqProjectionOperators\obj\Debug\LinqProjectionOperators.pdb

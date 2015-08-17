@@ -1,0 +1,1 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ListCollection\ListCollection\bin\Debug\ListCollection.exe.config

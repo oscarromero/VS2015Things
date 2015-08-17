@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Indexers\Indexers\bin\Debug\Indexers.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Indexers\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Indexers\Indexers\bin\Debug\Indexers.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Indexers\Indexers\bin\Debug\Indexers.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Indexers\Indexers\obj\Debug\Indexers.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Indexers\Indexers\obj\Debug\Indexers.pdb

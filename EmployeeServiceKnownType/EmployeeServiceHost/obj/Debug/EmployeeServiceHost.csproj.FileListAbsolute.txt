@@ -1,0 +1,16 @@
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\EmployeeServiceKnownType\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\EmployeeServiceKnownType\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\EmployeeServiceKnownType\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\EmployeeServiceKnownType\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\EmployeeServiceKnownType\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\EmployeeServiceKnownType\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\EmployeeServiceKnownType\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\EmployeeServiceKnownType\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache

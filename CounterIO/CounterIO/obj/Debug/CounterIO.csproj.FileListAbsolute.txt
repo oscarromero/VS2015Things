@@ -1,0 +1,9 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\CounterIO\CounterIO\bin\Debug\CounterIO.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\CounterIO\CounterIO\bin\Debug\CounterIO.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\CounterIO\CounterIO\bin\Debug\CounterIO.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\CounterIO\CounterIO\obj\Debug\CounterIO.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\CounterIO\CounterIO\obj\Debug\CounterIO.Form1.resources
+c:\users\netdeveloper\documents\visual studio 2013\Projects\CounterIO\CounterIO\obj\Debug\CounterIO.Properties.Resources.resources
+c:\users\netdeveloper\documents\visual studio 2013\Projects\CounterIO\CounterIO\obj\Debug\CounterIO.csproj.GenerateResource.Cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\CounterIO\CounterIO\obj\Debug\CounterIO.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\CounterIO\CounterIO\obj\Debug\CounterIO.pdb

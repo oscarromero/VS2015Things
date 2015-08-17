@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupBy\LinqGroupBy\bin\Debug\LinqGroupBy.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupBy\LinqGroupBy\bin\Debug\LinqGroupBy.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupBy\LinqGroupBy\bin\Debug\LinqGroupBy.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupBy\LinqGroupBy\obj\Debug\LinqGroupBy.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupBy\LinqGroupBy\obj\Debug\LinqGroupBy.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqGroupBy\LinqGroupBy\obj\Debug\LinqGroupBy.pdb

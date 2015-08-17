@@ -1,0 +1,5 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Stacks\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\NetDeveloper\Documents\Visual Studio 2013\Projects\Stacks\Stacks\bin\Debug\Stacks.exe
+C:\Users\NetDeveloper\Documents\Visual Studio 2013\Projects\Stacks\Stacks\bin\Debug\Stacks.pdb
+C:\Users\NetDeveloper\Documents\Visual Studio 2013\Projects\Stacks\Stacks\obj\Debug\Stacks.exe
+C:\Users\NetDeveloper\Documents\Visual Studio 2013\Projects\Stacks\Stacks\obj\Debug\Stacks.pdb

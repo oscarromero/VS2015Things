@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ProtectingResources\ProtectingResources\bin\Debug\ProtectingResources.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ProtectingResources\ProtectingResources\bin\Debug\ProtectingResources.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ProtectingResources\ProtectingResources\bin\Debug\ProtectingResources.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ProtectingResources\ProtectingResources\obj\Debug\ProtectingResources.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ProtectingResources\ProtectingResources\obj\Debug\ProtectingResources.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ProtectingResources\ProtectingResources\obj\Debug\ProtectingResources.pdb

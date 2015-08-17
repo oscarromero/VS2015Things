@@ -1,0 +1,5 @@
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.dll
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.pdb
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerService\CustomerService\obj\Debug\CustomerService.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerService\CustomerService\obj\Debug\CustomerService.dll
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerService\CustomerService\obj\Debug\CustomerService.pdb

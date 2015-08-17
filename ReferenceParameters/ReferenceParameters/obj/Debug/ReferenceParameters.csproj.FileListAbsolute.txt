@@ -1,0 +1,5 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.pdb

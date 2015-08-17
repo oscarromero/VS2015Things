@@ -1,0 +1,6 @@
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\CustomerWebClient\CustomerWebClient\bin\CustomerWebClient.dll.config
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\CustomerWebClient\CustomerWebClient\bin\CustomerWebClient.dll
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\CustomerWebClient\CustomerWebClient\bin\CustomerWebClient.pdb
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\CustomerWebClient\CustomerWebClient\obj\Debug\CustomerWebClient.csprojResolveAssemblyReference.cache
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\CustomerWebClient\CustomerWebClient\obj\Debug\CustomerWebClient.dll
+C:\Users\NetDeveloper\Documents\Visual Studio 2015\Projects\CustomerWebClient\CustomerWebClient\obj\Debug\CustomerWebClient.pdb

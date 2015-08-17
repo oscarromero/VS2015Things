@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqAggregateFunctions\LinqAggregateFunctions\bin\Debug\LinqAggregateFunctions.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqAggregateFunctions\LinqAggregateFunctions\bin\Debug\LinqAggregateFunctions.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqAggregateFunctions\LinqAggregateFunctions\bin\Debug\LinqAggregateFunctions.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqAggregateFunctions\LinqAggregateFunctions\obj\Debug\LinqAggregateFunctions.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqAggregateFunctions\LinqAggregateFunctions\obj\Debug\LinqAggregateFunctions.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqAggregateFunctions\LinqAggregateFunctions\obj\Debug\LinqAggregateFunctions.pdb

@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqOperators\LinqOperators\bin\Debug\LinqOperators.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqOperators\LinqOperators\bin\Debug\LinqOperators.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqOperators\LinqOperators\bin\Debug\LinqOperators.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqOperators\LinqOperators\obj\Debug\LinqOperators.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqOperators\LinqOperators\obj\Debug\LinqOperators.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqOperators\LinqOperators\obj\Debug\LinqOperators.pdb

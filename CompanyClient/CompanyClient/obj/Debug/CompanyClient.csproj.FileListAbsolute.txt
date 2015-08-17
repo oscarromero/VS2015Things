@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CompanyClient\CompanyClient\bin\CompanyClient.dll.config
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CompanyClient\CompanyClient\bin\CompanyClient.dll
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CompanyClient\CompanyClient\bin\CompanyClient.pdb
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CompanyClient\CompanyClient\obj\Debug\CompanyClient.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CompanyClient\CompanyClient\obj\Debug\CompanyClient.dll
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CompanyClient\CompanyClient\obj\Debug\CompanyClient.pdb

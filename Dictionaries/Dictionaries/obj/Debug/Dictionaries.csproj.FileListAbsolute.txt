@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb

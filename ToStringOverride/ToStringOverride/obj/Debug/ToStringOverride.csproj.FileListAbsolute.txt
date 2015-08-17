@@ -1,0 +1,5 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ToStringOverride\ToStringOverride\bin\Debug\ToStringOverride.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ToStringOverride\ToStringOverride\bin\Debug\ToStringOverride.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ToStringOverride\ToStringOverride\bin\Debug\ToStringOverride.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ToStringOverride\ToStringOverride\obj\Debug\ToStringOverride.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ToStringOverride\ToStringOverride\obj\Debug\ToStringOverride.pdb

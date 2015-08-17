@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadJoinAndAlive\ThreadJoinAndAlive\bin\Debug\ThreadJoinAndAlive.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadJoinAndAlive\ThreadJoinAndAlive\bin\Debug\ThreadJoinAndAlive.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadJoinAndAlive\ThreadJoinAndAlive\bin\Debug\ThreadJoinAndAlive.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadJoinAndAlive\ThreadJoinAndAlive\obj\Debug\ThreadJoinAndAlive.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadJoinAndAlive\ThreadJoinAndAlive\obj\Debug\ThreadJoinAndAlive.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\ThreadJoinAndAlive\ThreadJoinAndAlive\obj\Debug\ThreadJoinAndAlive.pdb

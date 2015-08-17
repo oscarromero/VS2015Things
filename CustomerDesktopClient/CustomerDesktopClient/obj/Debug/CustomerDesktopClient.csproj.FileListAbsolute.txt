@@ -1,0 +1,9 @@
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerDesktopClient\CustomerDesktopClient\bin\Debug\CustomerDesktopClient.exe.config
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerDesktopClient\CustomerDesktopClient\bin\Debug\CustomerDesktopClient.exe
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerDesktopClient\CustomerDesktopClient\bin\Debug\CustomerDesktopClient.pdb
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerDesktopClient\CustomerDesktopClient\obj\Debug\CustomerDesktopClient.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerDesktopClient\CustomerDesktopClient\obj\Debug\CustomerDesktopClient.Form1.resources
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerDesktopClient\CustomerDesktopClient\obj\Debug\CustomerDesktopClient.Properties.Resources.resources
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerDesktopClient\CustomerDesktopClient\obj\Debug\CustomerDesktopClient.csproj.GenerateResource.Cache
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerDesktopClient\CustomerDesktopClient\obj\Debug\CustomerDesktopClient.exe
+c:\users\netdeveloper\documents\visual studio 2015\Projects\CustomerDesktopClient\CustomerDesktopClient\obj\Debug\CustomerDesktopClient.pdb

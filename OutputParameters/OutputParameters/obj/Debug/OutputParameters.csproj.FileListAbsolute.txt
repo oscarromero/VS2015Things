@@ -1,0 +1,5 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\OutputParameters\OutputParameters\bin\Debug\OutputParameters.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\OutputParameters\OutputParameters\bin\Debug\OutputParameters.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\OutputParameters\OutputParameters\bin\Debug\OutputParameters.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\OutputParameters\OutputParameters\obj\Debug\OutputParameters.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\OutputParameters\OutputParameters\obj\Debug\OutputParameters.pdb

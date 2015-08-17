@@ -1,0 +1,5 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Generics1\Generics1\bin\Debug\Generics1.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Generics1\Generics1\bin\Debug\Generics1.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Generics1\Generics1\bin\Debug\Generics1.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Generics1\Generics1\obj\Debug\Generics1.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Generics1\Generics1\obj\Debug\Generics1.pdb

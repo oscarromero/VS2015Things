@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Thread\Thread\bin\Debug\Thread.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Thread\Thread\bin\Debug\Thread.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Thread\Thread\bin\Debug\Thread.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Thread\Thread\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Thread\Thread\obj\Debug\Thread.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Thread\Thread\obj\Debug\Thread.pdb

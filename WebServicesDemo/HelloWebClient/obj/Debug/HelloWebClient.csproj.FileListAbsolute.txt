@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2015\Projects\WebServicesDemo\HelloWebClient\bin\HelloWebClient.dll.config
+c:\users\netdeveloper\documents\visual studio 2015\Projects\WebServicesDemo\HelloWebClient\bin\HelloWebClient.dll
+c:\users\netdeveloper\documents\visual studio 2015\Projects\WebServicesDemo\HelloWebClient\bin\HelloWebClient.pdb
+c:\users\netdeveloper\documents\visual studio 2015\Projects\WebServicesDemo\HelloWebClient\obj\Debug\HelloWebClient.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2015\Projects\WebServicesDemo\HelloWebClient\obj\Debug\HelloWebClient.dll
+c:\users\netdeveloper\documents\visual studio 2015\Projects\WebServicesDemo\HelloWebClient\obj\Debug\HelloWebClient.pdb

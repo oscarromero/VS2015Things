@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeWebClient\EmployeeWebClient\bin\EmployeeWebClient.dll.config
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeWebClient\EmployeeWebClient\bin\EmployeeWebClient.dll
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeWebClient\EmployeeWebClient\bin\EmployeeWebClient.pdb
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeWebClient\EmployeeWebClient\obj\Debug\EmployeeWebClient.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeWebClient\EmployeeWebClient\obj\Debug\EmployeeWebClient.dll
+c:\users\netdeveloper\documents\visual studio 2015\Projects\EmployeeWebClient\EmployeeWebClient\obj\Debug\EmployeeWebClient.pdb

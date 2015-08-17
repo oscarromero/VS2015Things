@@ -1,0 +1,5 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqSelectManyOperator\LinqSelectManyOperator\bin\Debug\LinqSelectManyOperator.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqSelectManyOperator\LinqSelectManyOperator\bin\Debug\LinqSelectManyOperator.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqSelectManyOperator\LinqSelectManyOperator\bin\Debug\LinqSelectManyOperator.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqSelectManyOperator\LinqSelectManyOperator\obj\Debug\LinqSelectManyOperator.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqSelectManyOperator\LinqSelectManyOperator\obj\Debug\LinqSelectManyOperator.pdb

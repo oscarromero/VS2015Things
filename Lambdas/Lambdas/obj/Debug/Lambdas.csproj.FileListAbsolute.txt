@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Lambdas\Lambdas\bin\Debug\Lambdas.exe.config
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Lambdas\Lambdas\bin\Debug\Lambdas.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Lambdas\Lambdas\bin\Debug\Lambdas.pdb
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Lambdas\Lambdas\obj\Debug\Lambdas.csprojResolveAssemblyReference.cache
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Lambdas\Lambdas\obj\Debug\Lambdas.exe
+c:\users\netdeveloper\documents\visual studio 2013\Projects\Lambdas\Lambdas\obj\Debug\Lambdas.pdb

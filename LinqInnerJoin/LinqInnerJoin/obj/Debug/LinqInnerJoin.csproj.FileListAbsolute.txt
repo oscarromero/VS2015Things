@@ -1,0 +1,6 @@
+c:\users\netdeveloper\documents\visual studio 2013\Projects\LinqInnerJoin\LinqInnerJoin\bin\Debug\LinqInnerJoin.exe.config
+C:\Users\NetDeveloper\documents\visual studio 2013\Projects\LinqInnerJoin\LinqInnerJoin\bin\Debug\LinqInnerJoin.exe
+C:\Users\NetDeveloper\documents\visual studio 2013\Projects\LinqInnerJoin\LinqInnerJoin\bin\Debug\LinqInnerJoin.pdb
+C:\Users\NetDeveloper\documents\visual studio 2013\Projects\LinqInnerJoin\LinqInnerJoin\obj\Debug\LinqInnerJoin.csprojResolveAssemblyReference.cache
+C:\Users\NetDeveloper\documents\visual studio 2013\Projects\LinqInnerJoin\LinqInnerJoin\obj\Debug\LinqInnerJoin.exe
+C:\Users\NetDeveloper\documents\visual studio 2013\Projects\LinqInnerJoin\LinqInnerJoin\obj\Debug\LinqInnerJoin.pdb
